@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Note Taking</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="spinnerRows"></string>
+    <string name="string_debug">Debug</string>
+    <string name="string_save">Save</string>
+</resources>
